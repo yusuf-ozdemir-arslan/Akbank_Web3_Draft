@@ -19,4 +19,5 @@ contract salaryOfEmployees {
         string last_name;
         uint release_time;
         uint amount;
-        bool can_withdraw;}
+        bool can_withdraw;
+        }
